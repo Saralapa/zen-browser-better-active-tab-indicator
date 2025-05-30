@@ -1,7 +1,7 @@
 [
     {
-        "property": "theme.better-active-tab.on-right",
-        "label": "Move tha active tab indicator to the right",
+        "property": "theme.better-active-tab.on-left",
+        "label": "Move tha active tab indicator to the left",
         "type": "checkbox"
     }
 ]

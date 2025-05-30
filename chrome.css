@@ -16,3 +16,9 @@
         right: 0px;
     }
 }
+
+@media (-moz-bool-pref: "theme.better-active-tab.on-left"){
+    .tab-background[selected='']::after {
+        left: 0px;
+    }
+}
